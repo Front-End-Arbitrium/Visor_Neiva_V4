@@ -38,17 +38,10 @@ Los datos visualizados corresponden a archivos en formato **GeoJSON**, que conti
 
 ## 📸 Vista previa  
 
-> *<img width="1917" height="936" alt="image" src="https://github.com/user-attachments/assets/9a1abf1f-eb11-4344-aa5c-93ce942d4630" />
+> *<img width="1918" height="913" alt="image" src="https://github.com/user-attachments/assets/9ee108f7-66b4-477f-851c-b35691ccb7d7" />
 
-
-  
 
 ---
 
-## ⚙️ Instalación y uso  
-
-1. Clona este repositorio:  
-   ```bash
-   https://github.com/Front-End-Arbitrium/Visor-Neiva.git
 
 2. Puedes tener una visualización gracias un deploy realizado en Vercel.
